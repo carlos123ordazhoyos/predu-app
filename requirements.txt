@@ -5,3 +5,4 @@ numpy
 scikit-learn
 torch-geometric
 fastapi_mail
+gunicorn
